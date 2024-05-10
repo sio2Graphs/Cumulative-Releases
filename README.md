@@ -30,10 +30,10 @@ Added "Label Density" to arc.  This will thin percentages if needed or wanted.
 Improved label text placement.  
 Added "Customize Labels" to shorten or edit long labels.  Can go from the start or end of the text.  
 Improved display and architecture elements in order to make all of the above changes.
-#### 0 MinorImprovements 
+#### 0 Minor Improvements 
 #### 0 Maintenance Adjustments
 #### 0 Bug Fixes
 
 ## v1.0.0.0
 *Published 1/2023*<br />
-**This graph was based on the pareto graph and modified to a customer's request.**
+**This graph was based on the pareto graph and modified per customer request.**
